@@ -1,5 +1,5 @@
 // first get the URL of the background images
-// second slice the URL so that we can add the cropper parameters to it
+// second slice the URL so that we can add the cropped parameters to it
 // third return cropped URL
 
 // NORMAL: https://media.rawg.io/media/games/20a/20aa03a10cda45239fe22d035c0ebe64.jpg

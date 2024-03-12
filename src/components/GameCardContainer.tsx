@@ -5,6 +5,7 @@ interface GameCardContainerProps {
   children: ReactNode;
 }
 
+// The container that each card and skeleton is wrapped around so they match in size/styling
 const GameCardContainer = ({ children }: GameCardContainerProps) => {
   return (
     <Box width='300px' borderRadius={10} overflow='hidden'>
